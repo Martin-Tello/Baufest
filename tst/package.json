@@ -1,0 +1,21 @@
+{
+  "name": "bf-tennis-pei",
+  "version": "1.0.0",
+  "description": "APLICACION TENNIS PEI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://tfs-ms.baufest.com/tfs/Baufest/PEI%20REACT%202021/_git/Grupo29"
+  },
+  "keywords": [
+    "pei",
+    "tennis",
+    "react",
+    "baufest"
+  ],
+  "author": "Martin",
+  "license": "MIT"
+}

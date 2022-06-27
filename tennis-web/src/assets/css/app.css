@@ -1,0 +1,14 @@
+.title-css {
+    color: papayawhip;
+    background-color: black;
+}
+
+h1 {
+    /* si le pongo !importan, recién sobreescribirá en caso haya otros codigo para lo mismo */
+    color: brown;
+}
+
+/* .title-css { */
+    /* como es en cascada lo de abajo tiene más importancia */
+    /* background-color: red;
+} */
